@@ -1,4 +1,10 @@
-## v1.1
+## v1.2.0
+
+### Added
+
+- Error enums which can be accessed using `Root.Error.(soup.Error).Type`. Refer to `examples/errors`.
+
+## v1.1.0
 
 ### Added
 
